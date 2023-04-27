@@ -50,7 +50,7 @@
     "@babel/plugin-transform-runtime": "7.1.0",
     "@babel/preset-env": "7.2.0",
     "@babel/preset-react": "7.0.0",
-    "@mui/material": "^5.5.0",
+    "@mui/material": "^5.11.15",
     "@mui/lab": "^5.0.0-alpha.72",
     "@mui/styles": "5.5.0",
     "babel-eslint": "10.0.1",
@@ -95,7 +95,7 @@
     "@mui/material": "^5.5.0",
     "@mui/lab": "^5.0.0-alpha.72",
     "@mui/styles": "5.5.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
